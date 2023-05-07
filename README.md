@@ -10,7 +10,7 @@ The application was developed to allow customers  to easily make the yummy pizza
 * HTML
 * css(Bootstrap & Materialize)
 * Javascript(script & jquery-3.4.1
-
+Any update is accepted.
 ## Browsers used:
 The webpage can be viewed though the following browsers:
 * Chrome
